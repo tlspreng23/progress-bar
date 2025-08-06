@@ -1,5 +1,5 @@
 import Head from "next/head";
-import ProjectProgressApp from "@/components/ProjectProgressApp";
+import ProjectProgressApp from "../components/ProjectProgressApp";
 
 export default function Home() {
   return (
