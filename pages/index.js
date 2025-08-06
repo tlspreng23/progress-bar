@@ -10,7 +10,7 @@ export default function Home() {
         <meta name="keywords" content="progress bar, timeline, tracker, project tracker" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
-      <main className="min-h-screen bg-gray-50 py-10">
+      <main>
         <ProjectProgressApp />
       </main>
     </>
