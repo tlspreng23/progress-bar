@@ -1,6 +1,15 @@
 {
   "name": "project-progress-tracker",
   "version": "1.0.0",
+  "_comment": "Updated to remove TypeScript",
+  "scripts": {
+    ...
+  }
+}
+
+{
+  "name": "project-progress-tracker",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
